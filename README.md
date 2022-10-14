@@ -3,12 +3,11 @@
 Portfólio contendo todas as atividades da Trybe à ser desenvolvidas  
 pelo aluno para se tornar um Desenvolvedor Web.
 
-"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de  
-software, front-end, back-end, ciência da computação, engenharia de software,  
+"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software,  
 metodologias ágeis e habilidades comportamentais."
 
 ## Módulo Fundamentos :heavy_check_mark:
-#### Seção 1: Unix $ Bash
+#### Seção 1: Unix & Bash
 - [ ] 1.1 - Unix & Bash - Parte 1
 - [ ] 1.2 - Unix & Bash - Parte 2
 #### Seção 2: Git & GitHub
