@@ -52,22 +52,21 @@ comportamentais."
 - [ ] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
 - [ ] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [ ] 8.6 - Projeto - Zoo functions
-Bloco 9: JavaScript Assíncrono e Promises
- 9.1 - JavaScript Assíncrono e Callbacks
- 9.2 - JavaScript Promises
- 9.3 - Projeto - Carrinho de Compras
-Bloco 10: Testes automatizados com Jest
- 10.1 - Primeiros passos no Jest
- 10.2 - Jest - Testes Assíncronos
- 10.3 - Jest - Simulando comportamentos
- 10.4 - Projeto - Jest Assíncrono e Mocking
-Desenvolvimento Front-end heavy_check_mark
-Bloco 11: Introdução à React
- 11.1 - Introdução - Front-end
- 11.1 - Introdução - React
- 11.1 - 'Hello, world!' no React!
- 11.2 - Componentes React
- 11.3 - Projeto - Movie Cards Library
+## Módulo Front-end :hourglass_flowing_sand:
+#### Seção 1: JavaScript e Testes Assíncronos
+- [ ] 1.1 - Ambiente de desenvolvimento
+- [ ] 1.2 - JavaScript Assíncrono - Promises e fetch
+- [ ] 1.3 - Prática - Casa de câmbio
+- [ ] 1.4 - Async, await e testes assíncronos
+- [ ] 1.5 - Projeto - Carrinho de compras
+#### Seção 2: Introdução ao React
+- [ ] 2.1 - 'Hello, world!' no React!
+- [ ] 2.2 - Componentes React
+- [ ] 2.3 - Projeto - Solar System
+#### Seção 3: Componentes com Estado, Eventos e Formulários com React
+- [ ]3.1 - Componentes com estado e eventos
+- [ ] 3.2 - Formulário no React
+- [ ] 3.3 - Projeto - Tryunfo
 Bloco 12: Componentes com Estado, Eventos e Formulários com React
  12.1 - Componentes com estado e eventos
  12.2 - Formulários no React
