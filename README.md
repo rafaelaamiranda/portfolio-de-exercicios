@@ -162,7 +162,7 @@ comportamentais."
 #### Seção 14: MasterClass - VPS, CI/CD
 - [ ] 14.1 - VPS
 - [ ] 14.2 - Dia 2
-## Módulo Ciência da Computação :hourglass_flowing_sand:
+## Módulo: Ciência da Computação :hourglass_flowing_sand:
 #### Seção 1: Introdução à Python
 - [ ] 1.1 - Aprendendo Python
 - [ ] 1.2 - Entrada e Saída de dados
