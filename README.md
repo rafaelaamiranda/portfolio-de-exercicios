@@ -64,60 +64,61 @@ comportamentais."
 - [ ] 2.2 - Componentes React
 - [ ] 2.3 - Projeto - Solar System
 #### Seção 3: Componentes com Estado, Eventos e Formulários com React
-- [ ]3.1 - Componentes com estado e eventos
+- [ ] 3.1 - Componentes com estado e eventos
 - [ ] 3.2 - Formulário no React
 - [ ] 3.3 - Projeto - Tryunfo
-Bloco 12: Componentes com Estado, Eventos e Formulários com React
- 12.1 - Componentes com estado e eventos
- 12.2 - Formulários no React
- 12.3 - Projeto - Movie Cards Library Stateful
-Bloco 13: Ciclo de Vida de Componentes e React Router
- 13.1 - Ciclo de vida de componentes
- 13.2 - React Router
- 13.3 - Projeto - Movie Cards Library CRUD
-Bloco 14: Metodologias Ágeis
- 14.1 - Metodologias Ágeis
- 14.2 - Projeto - Frontend Online Store
-Bloco 15: Testes automatizados com React Testing Library
- 15.1 - RTL - Primeiros passos
- 15.2 - RTL - Mocks e Inputs
- 15.3 - RTL - Testando React Router
- 15.4 - Projeto - Testes em React
-Bloco 16: Gerenciamento de estado com Redux
- 16.1 - Introdução ao Redux - O estado global da aplicação
- 16.2 - Usando o Redux no React
- 16.3 - Usando o Redux no React - Prática
- 16.4 - Usando o Redux no React - Actions Assíncronas
- 16.5 - Testes síncronos com React-Redux
- 16.6 - Projeto - Tabela com filtros de dados
-Bloco 17: Projeto Jogo de Trivia
- 17.1 - Projeto - Jogo de Trivia
-Bloco 18: Context API e React Hooks
- 18.1 - Context API do React
- 18.2 - React Hooks - useState e useContext
- 18.3 - React Hooks - useEffect e Hooks customizados
- 18.4 - Projeto - StarWars Datatable com Context API e Hooks
-Bloco 19: Projeto App de Receitas
- 19.1 - Projeto - App de Receitas
-Desenvolvimento Back-end hourglass_flowing_sand
-Bloco 20: Introdução à SQL
- 20.1 - Introdução - Back-end
- 20.1 - Introdução - Bancos de dados relacionais
- 20.1 - Banco de dados SQL
- 20.2 - Encontrando dados em um banco de dados
- 20.3 - Filtrando dados de forma específica
- 20.4 - Manipulando tabelas
- 20.5 - Projeto - All For One
-Bloco 21: Funções SQL, Joins e Subqueries
- 21.1 - Funções mais usadas no SQL
- 21.2 - Descomplicando JOINs e UNIONs
- 21.3 - Stored Routines & Subqueries
- 21.4 - Projeto - Vocabulary Booster
-Bloco 22: Normalização e Modelagem de Banco de Dados
- 22.1 - Transformando ideias em um modelo de banco de dados
- 22.2 - Normalização, Formas Normais e Dumps
- 22.3 - Transformando ideias em um modelo de banco de dados - Parte 2
- 22.4 - Projeto - One For All
+#### Seção 4: Ciclo de Vida de Componentes e React Router
+- [ ] 4.1 - Ciclo de vida de componentes
+- [ ] 4.2 - React Router
+- [ ] 4.3 - Projeto - TrybeTunes
+#### Seção 5: Metodologias Ágeis
+- [ ] 5.1 - Metodologias Ágeis
+- [ ] 5.2 - Projeto - Front-end Online Store
+#### Seção 6: Testes automatizados com React Testing Library
+- [ ] 6.1 - RTL - Primeiros passos
+- [ ] 6.2 - RTL - Mocks e Inputs
+- [ ] 6.3 - RTL - Testando React Router
+- [ ] 6.4 - Projeto - Testes em React
+#### Seção 7: Gerenciamento de estado com Redux
+- [ ] 7.1 - Introdução ao Redux - O estado global da aplicação
+- [ ] 7.2 - Usando o Redux no React
+- [ ] 7.3 - Usando o Redux no React - Prática
+- [ ] 7.4 - Usando o Redux no React - Actions Assíncronas
+- [ ] 7.5 - Testes em React-Redux
+- [ ] 7.6 - Projeto - Trybe Wallet
+#### Seção 8: Projeto Jogo de Trivia
+- [ ] 8.1 - Projeto - Jogo de Trivia
+#### Seção 9: Context API e React Hooks
+- [ ] 9.1 - Context API do React
+- [ ] 9.2 - React Hooks - useState e useContext
+- [ ] 9.3 - React Hooks - useEffect e Hooks customizados
+- [ ] 9.4 - Projeto - StarWars Datatable com Context API e Hooks
+#### Seção 10: Projeto App de Receitas
+- [ ] 10.1 - Projeto - App de Receitas
+## Módulo Back-end :hourglass_flowing_sand:
+#### Seção 1: Docker: Utilizando Containers
+- [ ] 1.1 - Utilizando Containers - Docker
+- [ ] 1.2 - Manipulando Imagens no Docker
+- [ ] 1.3 - Orquestrando Containers com Docker Compose
+- [ ] 1.4 - Projeto - Docker Todo-List
+#### Seção 2: Introdução à SQL
+- [ ] 2.1 - Banco de dados SQL
+- [ ] 2.2 - Encontrando dados em um banco de dados
+- [ ] 2.3 - Filtrando dados de forma específica
+- [ ] 2.4 - Manipulando tabelas
+- [ ] 2.5 - Projeto - All For One
+#### Seção 3: Funções SQL, Joins e Normalização
+- [ ] 3.1 - Funções mais usadas no SQL
+- [ ] 3.2 - Descomplicando JOINs
+- [ ] 3.3 - Transformando ideias em um modelo de banco de dados
+- [ ] 3.4 - Aula ao vivo + Projeto - One For All
+#### Seção 4: Introdução ao desenvolvimento Web com Node.js
+- [ ] 4.1 - Node.js: Runtime Assíncrono
+- [ ] 4.2 - Node.js: API REST com Express
+- [ ] 4.3 - Node.js: Testes de Integração
+- [ ] 4.4 - Node.js: Express e Middlewares 
+- [ ] 4.5 - Node.js: Express e MySQL
+- [ ] 4.6 - Atividades + Projeto - Talker Manager
 Bloco 23: Introdução ao MongoDB
  23.1 - Introdução - NoSQL
  23.1 - MongoDB - Introdução
